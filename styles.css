@@ -6,7 +6,9 @@ body {
     padding: 0;
     line-height: 1.6;
 }
-
+#disclaimer {
+    color: black;
+}
 header {
     text-align: center;
     padding: 2rem;
@@ -39,6 +41,7 @@ h1 {
     font-size: 1.2rem;
     max-width: 600px;
     margin: 0 auto;
+    font-weight: bolder;
 }
 
 main {
